@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gkondas
 - 👀 I’m interested in sharpening up my programming skills.
-- 🌱 I’m currently taking a computer arcitecture class and have been practicing leetcoding.
+- 🌱 I’m currently looking for a summer 2023 internship
 - 📫 Feel free to email me @ gkondas@umich.edu
 
 <!---
