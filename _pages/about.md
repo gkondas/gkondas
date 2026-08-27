@@ -10,16 +10,17 @@ redirect_from:
 About Me
 ===
 
-Hello! I’m a first year PhD student at Columbia University in the Department of Biomedical Informatics ([DBMI](https://www.dbmi.columbia.edu/)), working with Professor [Matthew McDermott](https://www.dbmi.columbia.edu/profile/matthew-mcdermott/). My research interests lie at the intersection of machine learning, artificial intelligence, and health. Here is my [CV](https://gkondas.github.io/files/gregCV.pdf).
+Hello! I’m a second year PhD student at Columbia University in the Department of Biomedical Informatics ([DBMI](https://www.dbmi.columbia.edu/)), advised by Professor [Matthew McDermott](https://www.dbmi.columbia.edu/profile/matthew-mcdermott/). I work on machine learning for healthcare, mostly on foundation models over EHR event streams and how to evaluate them.
 
-Before Columbia, I earned a B.S. in Computer Science with a minor in Physics from the University of Michigan. At the Michigan AI Lab with Professor [Jenna Wiens](https://web.eecs.umich.edu/~wiensj/), I worked on machine learning for healthcare, first as an undergraduate researcher, then for a year as a pre-doctoral researcher.
+Before Columbia, I earned a B.S. in Computer Science with a minor in Physics from the University of Michigan. There I worked with Professor [Jenna Wiens](https://web.eecs.umich.edu/~wiensj/), in the Michigan AI Lab on machine learning for healthcare, first as an undergraduate researcher and then for a year as a pre-doctoral researcher. Here is my [CV](https://gkondas.github.io/files/gregCV.pdf).
 
-Outside of research I enjoy cycling, keeping up with the news, music, and cooking!
+Outside of research I enjoy cycling, keeping up with the news, music, and cooking.
 
 Email: `gbk2114 (at) cumc (dot) columbia (dot) edu`
 
 News
 ===
+- **7/26**: [EveryQuery](https://arxiv.org/abs/2603.07900) was accepted to the Structured Data for Health workshop at ICML 2026.
 - **9/25**: Excited to begin my PhD at Columbia University in NYC, joining the McDermott Health AI Lab and the Department of Biomedical Informatics.
 - **11/24**: I wrote a blog post on DEPICT for the Michigan AI lab blog. Check it out [here](https://ai.engin.umich.edu/2024/11/01/understanding-image-classifiers-at-the-dataset-level-with-diffusion-models/).
 - **7/24**: **DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks** accepted to *ECCV 2024*!
